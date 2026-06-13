@@ -61,25 +61,29 @@ When I'm not coding, you'll likely find me studying new technologies, improving 
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UcheWisdom&show_icons=true&theme=github_dark&hide_border=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UcheWisdom&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<div align="center">
-
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=UcheWisdom&theme=dark" alt="GitHub Streak Stats"/>
   </a>
 
 </div>
 
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UcheWisdom&show_icons=true&theme=github_dark&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UcheWisdom&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+
 ## Connect With Me
 
 - GitHub: https://github.com/UcheWisdom
-- LinkedIn: Add your LinkedIn profile here
-- Email: Add your professional email here
+- GitHub.io: https://uchewisdom.github.io/
+- 
+- LinkedIn: [https://www.linkedin.com/in/uchebuaku-wisdom-725b11336/](https://www.linkedin.com/in/uchebuaku-wisdom-725b11336/)
+- 📧 Email: [uchebuakwisdom@gmail.com](mailto:uchebuakwisdom@gmail.com)
 
 ---
 
