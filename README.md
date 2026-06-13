@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Uche Wisdom
 
-<!--
-**UcheWisdom/UcheWisdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 Software Developer
+- 🌱 Learning TypeScript, C#, Python, Cybersecurity
+- 🚀 Building web applications
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+
+## Connect With Me
+
+- GitHub: https://github.com/UcheWisdom
