@@ -77,12 +77,6 @@ When I'm not coding, you'll likely find me studying new technologies, improving 
 </div>
 
 
-## Connect With Me
-
-- GitHub: https://github.com/UcheWisdom
-- GitHub.io: https://uchewisdom.github.io/
-- LinkedIn: [https://www.linkedin.com/in/uchebuaku-wisdom-725b11336/](https://www.linkedin.com/in/uchebuaku-wisdom-725b11336/)
-- Email: [uchebuakwisdom@gmail.com](mailto:uchebuakwisdom@gmail.com)
 
 ---
 
