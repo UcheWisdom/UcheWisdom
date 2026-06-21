@@ -65,8 +65,7 @@ When I'm not coding, you'll likely find me studying new technologies, improving 
     <img  height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=UcheWisdom&theme=dark" alt="GitHub Streak Stats"/>
   </a>
 
- 
-
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UcheWisdom&layout=compact&theme=github_dark&hide_border=true&langs_count=10&count_private=true&include_all_commits=true&cache_seconds=1800" />
 </div>
 
 
