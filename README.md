@@ -67,7 +67,7 @@ When I'm not coding, you'll likely find me studying new technologies, improving 
 </a>
 
 <a href="https://github.com/UcheWisdom">
-    <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UcheWisdom&langs_count=10&layout=compact&theme=github_dark&hide_border=false" height="150px"/>
+    <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UcheWisdom&langs_count=10&layout=compact&theme=github_dark&hide_border=false" height="180px"/>
 </a>
 
 </div>
