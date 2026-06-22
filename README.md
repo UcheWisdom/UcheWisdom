@@ -60,10 +60,11 @@ When I'm not coding, you'll likely find me studying new technologies, improving 
 ## GitHub Stats
 
 <div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=UcheWisdom&theme=dark)](https://git.io/streak-stats)
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=UcheWisdom&theme=dark)](https://git.io/streak-stats)
 
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UcheWisdom&layout=compact&theme=github_dark&hide_border=true&langs_count=10&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UcheWisdom&layout=compact&theme=github_dark&hide_border=true&langs_count=10&count_private=true&include_all_commits=true&cache_seconds=1800" />
 
 </div>
 
