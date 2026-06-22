@@ -69,11 +69,14 @@ When I'm not coding, you'll likely find me studying new technologies, improving 
 
 </div>
 <a href="https://github.com/UcheWisdom">
-    <img  height="250em"
+    <img  height="230em"
          alt="My GitHub Streak" 
          src="https://github-readme-streak-stats-eight.vercel.app/?user=UcheWisdom&theme=dark"/>
 </a>
 
+<a href="https://github.com/UcheWisdom">
+    <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UcheWisdom&langs_count=10&layout=compact&theme=github_dark&hide_border=false" height="235px"/>
+</a>
 
 ---
 
